@@ -1,3 +1,8 @@
+#Greenfoot properties
+#Fri May 25 13:31:48 CEST 2018
+target1.type=ClassTarget
+project.charset=UTF-8
+mainWindow.height=1048
 #Greenfoot project file
 class.MyWorld.superclass=greenfoot.World
 class.Spielfeld.image=road.jpg
@@ -7,9 +12,32 @@ class.Spielfigur.superclass=greenfoot.Actor
 class.Ziel.image=button-green.png
 class.Ziel.superclass=greenfoot.Actor
 editor.fx.0.height=0
-editor.fx.0.width=0
-editor.fx.0.x=0
+ditor.fx.0.width=0
+readme.y=10
+readme.x=10
+version=3.0.0
+readme.height=58
+class.Wand.superclass=greenfoot.Actor
+target1.typeParameters=
+world.lastInstantiated=MyWorld
+class.MyWorld.superclass=greenfoot.World
+target1.height=50
 editor.fx.0.y=0
+mainWindow.y=-9
+target1.width=80
+mainWindow.x=-9
+editor.fx.0.x=0
+readme.width=47
+editor.fx.0.height=0
+package.numDependencies=0
+target1.y=0
+target1.x=0
+mainWindow.width=1938
+package.numTargets=1
+target1.name=MyWorld
+target1.showInterface=false
+readme.name=@README
+class.Wand.image=mushroom.png
 mainWindow.height=600
 mainWindow.width=850
 mainWindow.x=266
